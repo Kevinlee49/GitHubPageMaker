@@ -1,0 +1,16 @@
+SQL :
+  name: SQL
+  description: False
+  cover: assets/built/images/background-frontend.jpg
+python :
+  name: python
+  description: False
+  cover: assets/built/images/background-frontend.jpg
+computervision :
+  name: computer vision
+  description: False
+  cover: assets/built/images/background-frontend.jpg
+deeplearning :
+  name: deep learning
+  description: False
+  cover: assets/built/images/background-frontend.jpg

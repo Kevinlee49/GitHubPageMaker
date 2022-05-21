@@ -1,0 +1,12 @@
+myung-eun :
+username: myung-eun # username : martin
+name: myung-eun # user full name : Martin Luther King
+url_full: # Homepage url
+url:
+bio:
+# 회사정보
+picture: assets/built/images/economy-author-logo.png # author image
+facebook: # facebook ID
+twitter: # twitter ID
+cover: False
+
